@@ -1,28 +1,50 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Analita
-===============================================================================================================================
+# Hi, I’m Analita 👋  
 
-Your favorite aspiring Web Developer
-------------------------------------
+✨ Technical Account Manager exploring the path to Software Engineering ✨  
 
-I'm Analita, but I go by Warlita in both a gaming capacity and the coding world. I started to learn how to seriously code in August 2023 while working in a technical position in a SaaS company. I may not have too many projects under my belt right now, but I am working very diligently to change that to pave my own path in my journey to becoming the best developer I can be.
+I’m **Analita**, blending my experience in technical client support with hands-on coding projects. I’m passionate about solving problems, building tools, and expanding my skills as a developer. Right now, I’m focused on growing my expertise in Ruby, Rails, and API integrations through real-world projects and open-source contributions.  
 
-* 🌍  I'm based in Texas
-* 🧠  I'm learning HTML, CSS, Javascript, React, Node.js, Machine Learning, Ruby, Ruby on Rails
+---
 
-### Skills
+### 🌍 About Me
+- 📍 Based in Texas  
+- 🧠 Currently learning: Ruby, Ruby on Rails, and API integrations  
+- 💼 Day job: Technical Account Manager, focusing on integrations & client success  
+- 🚀 Side projects:  
+  - **[MyPomo](https://github.com/analitacodes/mypomo)** — A Pomodoro timer app built with Rails  
+  - Open source contributions (Ruby for Good, etc.)  
+- 🎯 Goals: Become a full-time software engineer and eventually a founder who builds products from the ground up  
 
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+### 🛠️ Tech & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-### Socials
+### 🚀 Featured Projects
+- [**MyPomo**](https://github.com/analitacodes/mypomo) — A Rails-based Pomodoro timer app for productivity.  
+- [**Ruby for Good Contributions**](https://github.com/rubyforgood) — Actively contributing to open-source Ruby projects that make an impact.  
 
-<p align="left"> <a href="https://www.github.com/warlita" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/analitavoss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 📊 Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=analitacodes&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats)  
 
-<b>My GitHub Stats</b>
+![Codewars Stats](https://github.r2v.ch/codewars?user=analitacodes&theme=tokyonight&top_languages=true&hide_clan=true)
 
-<a href="http://www.github.com/warlita"><img src="https://github-readme-stats.vercel.app/api?username=warlita&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="warlita's GitHub stats" /></a>
+---
+
+✨ **Fun fact:** When I’m not coding, I’m probably  
+- 🎲 playing D&D  
+- 📚 reading a thrilling series  
+- 🎨 finishing up a paint-by-numbers kit  
