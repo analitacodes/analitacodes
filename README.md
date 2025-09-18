@@ -34,8 +34,8 @@ I’m **Analita**, blending my experience in technical client support with hands
 ---
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=analitacodes&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=analitacodes&theme=black-ice&hide_total_contributions=true)](https://git.io/streak-stats)
 ![Codewars Stats](https://github.r2v.ch/codewars?user=analitacodes&theme=tokyonight&top_languages=true&hide_clan=true)
 
 ---
