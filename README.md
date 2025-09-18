@@ -13,7 +13,7 @@ I’m **Analita**, blending my experience in technical client support with hands
 - 🚀 Side projects:  
   - **[MyPomo](https://github.com/analitacodes/mypomo)** — A Pomodoro timer app built with Rails  
   - Open source contributions (Ruby for Good, etc.)  
-- 🎯 Goals: Become a full-time software engineer and eventually a founder who builds products from the ground up  
+- 🎯 Goals: Become a full-time software engineer
 
 ---
 
